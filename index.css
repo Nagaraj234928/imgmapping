@@ -1,0 +1,11 @@
+*{
+    align-items: center;
+}
+img{
+    width: 414px,612px;
+}
+
+.outer{
+    display: flex;
+    
+}
